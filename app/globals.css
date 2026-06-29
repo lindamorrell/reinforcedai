@@ -1,0 +1,179 @@
+@import "tailwindcss";
+
+/* ──────────────────────────────────────────────────────────────
+   REINFORCEDAI design tokens
+   ──────────────────────────────────────────────────────────────
+   Brand DNA:
+   - Reinforced = structural / load-bearing / engineered
+   - AI = intelligence / forward momentum / signal
+   Combined: an austere, almost industrial palette anchored by deep
+   ink + signal electric, lifted by white space and a single accent.
+   ────────────────────────────────────────────────────────────── */
+
+:root {
+  /* Surface palette */
+  --background:            #ffffff;
+  --foreground:            #0b0f14;   /* near-black with blue undertone */
+  --muted:                 #f5f7fa;
+  --muted-foreground:      #5b6573;
+
+  /* Brand palette */
+  --brand:                 #0b1220;   /* ink — primary brand surface */
+  --brand-foreground:      #ffffff;
+  --brand-muted:           #131c2b;   /* slight lift from brand */
+  --accent:                #00d4a8;   /* signal electric green-cyan */
+  --accent-foreground:     #06231d;
+  --warning:               #ff6b35;
+  --danger:                #ff4757;
+
+  --border:                #e6e9ee;
+  --ring:                  #00d4a8;
+
+  /* Typography stacks — chosen for an editorial safety/engineering tone */
+  --font-display:          "Oswald", "Helvetica Neue", Arial, sans-serif;
+  --font-sans:             "Poppins", "Helvetica Neue", Arial, sans-serif;
+  --font-body:             "Roboto", "Helvetica Neue", Arial, sans-serif;
+  --font-mono:             ui-monospace, SFMono-Regular, "JetBrains Mono", monospace;
+}
+
+@theme inline {
+  --color-background:      var(--background);
+  --color-foreground:      var(--foreground);
+  --color-muted:           var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-brand:           var(--brand);
+  --color-brand-foreground: var(--brand-foreground);
+  --color-brand-muted:     var(--brand-muted);
+  --color-accent:          var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-warning:         var(--warning);
+  --color-danger:          var(--danger);
+  --color-border:          var(--border);
+  --color-ring:            var(--ring);
+  --font-display:          var(--font-display);
+  --font-sans:             var(--font-sans);
+  --font-body:             var(--font-body);
+  --font-mono:             var(--font-mono);
+}
+
+/* Smooth scroll — replaces Lenis dependency for static export keeps our
+   scroll behaviour consistent with the editorial feel of the original */
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+/* Display headings: condensed, structural, large tracking */
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+  line-height: 1.05;
+  font-weight: 600;
+}
+
+/* Subtle "structural" keyframe for the hero treatment */
+@keyframes signal-pulse {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.55; }
+}
+
+@keyframes particles-drift {
+  from { transform: translate3d(0,0,0); }
+  to   { transform: translate3d(-40px, 30px, 0); }
+}
+
+.particle-layer {
+  background-image:
+    radial-gradient(circle at 18% 22%, rgba(0, 212, 168, 0.18) 0%, transparent 35%),
+    radial-gradient(circle at 82% 16%, rgba(11, 18, 32, 0.04) 0%, transparent 35%),
+    radial-gradient(circle at 60% 80%, rgba(0, 212, 168, 0.10) 0%, transparent 35%);
+  animation: particles-drift 16s ease-in-out infinite alternate;
+}
+
+.signal-dot {
+  animation: signal-pulse 2.4s ease-in-out infinite;
+}
+
+.container-xxl {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .container-xxl { padding-left: 2rem; padding-right: 2rem; }
+}
+
+/* Buttons — engineered / load-bearing aesthetic */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  padding: 0.95rem 1.6rem;
+  background: var(--accent);
+  color: var(--accent-foreground);
+  font-family: var(--font-display);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-radius: 2px;
+  border: 1px solid var(--accent);
+  transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+}
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 24px -10px rgba(0, 212, 168, 0.6);
+}
+
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  padding: 0.95rem 1.6rem;
+  background: transparent;
+  color: var(--brand-foreground);
+  font-family: var(--font-display);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-radius: 2px;
+  border: 1px solid rgba(255,255,255,0.25);
+  transition: background 160ms ease, border-color 160ms ease;
+}
+.btn-ghost:hover {
+  background: rgba(255,255,255,0.06);
+  border-color: rgba(255,255,255,0.45);
+}
+
+/* “Structural frame” used on package cards — refers to reinforced concrete */
+.structural-card {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  transition: transform 200ms ease, box-shadow 200ms ease, border-color 200ms ease;
+}
+.structural-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  box-shadow: 0 18px 36px -22px rgba(11, 18, 32, 0.25);
+}
+
+/* Section divider — like a rebar ridge */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent) 30%, var(--accent) 70%, transparent);
+  opacity: 0.45;
+}
