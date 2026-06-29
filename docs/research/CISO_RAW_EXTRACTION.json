@@ -1,0 +1,728 @@
+{
+  "title": "Home - CISO Online™",
+  "metaDesc": "",
+  "metaOG": [
+    {
+      "p": "og:locale",
+      "c": "en_US"
+    },
+    {
+      "p": "og:type",
+      "c": "website"
+    },
+    {
+      "p": "og:title",
+      "c": "Home"
+    },
+    {
+      "p": "og:description",
+      "c": "it’s not IF you face a cyber attack, IT’S WHEN CISO Online™ empowers organisations to strengthen their cyber security posture, achieve compliance, and securely adopt AI through a comprehensive suite of services, including Advanced Professional Services, Cyber Security Protection Packages, GRC Compliance Packages (ISO 27001, SOC 2, ISO 42001), and Secure AI Adoption Packages. Whether […]"
+    },
+    {
+      "p": "og:url",
+      "c": "https://cisoonline.com.au/"
+    },
+    {
+      "p": "og:site_name",
+      "c": "CISO Online™"
+    },
+    {
+      "p": "og:image",
+      "c": "https://cisoonline.com.au/wp-content/uploads/2025/06/cisouse-e1780579671845.webp"
+    },
+    {
+      "p": "og:image:width",
+      "c": "350"
+    },
+    {
+      "p": "og:image:height",
+      "c": "458"
+    },
+    {
+      "p": "og:image:type",
+      "c": "image/webp"
+    }
+  ],
+  "styleLinks": [
+    "https://cisoonline.com.au/wp-includes/css/dist/block-library/style.min.css?ver=7.0",
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/css/swiper.min.css?ver=7.0",
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/css/bootstrap.min.css?ver=7.0",
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/fonts/icomoon/style.css?ver=7.0",
+    "https://cisoonline.com.au/wp-content/themes/ciso/style.css?ver=7.0",
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/css/responsive.css?ver=7.0",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=4.1.2",
+    "https://cisoonline.com.au/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.1.2",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=4.1.2",
+    "https://cisoonline.com.au/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.1.2",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/uploads/elementor/css/post-3711.css?ver=1782492322",
+    "https://cisoonline.com.au/wp-content/plugins/filebird-pro/includes/PageBuilders/Elementor/assets/css/frontend.css?ver=6.5.5",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css?ver=4.1.2",
+    "https://cisoonline.com.au/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=4.1.2",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css?ver=4.1.2",
+    "https://cisoonline.com.au/wp-content/uploads/elementor/css/post-21653.css?ver=1782556169",
+    "https://cisoonline.com.au/wp-content/uploads/elementor/css/post-19514.css?ver=1782492322",
+    "https://cisoonline.com.au/wp-content/uploads/elementor/css/post-21855.css?ver=1782492322"
+  ],
+  "preconnect": [],
+  "fontLinks": [
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/fonts/icomoon/style.css?ver=7.0",
+    "https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "https://fonts.googleapis.com/css?family=Oswald:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap"
+  ],
+  "scripts": [
+    "https://cisoonline.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://cisoonline.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://www.googletagmanager.com/gtag/js?id=GT-WB7M4KHB",
+    "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7681552274038962&host=ca-host-pub-2644536267352236",
+    "https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js",
+    "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+    "https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js?ver=8.4",
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/js/plugins/bootstrap/bootstrap.js?ver=5",
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/js/plugins/particles-js/particles.min.js?ver=1",
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/js/plugins/counting-nums/js/jquery.numscroll.min.js?ver=1",
+    "https://cisoonline.com.au/wp-content/themes/ciso/assets/js/index.js?ver=2",
+    "https://cisoonline.com.au/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-consent-mode-86cb52dcb9f2b27ed244.js",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4",
+    "https://cisoonline.com.au/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4",
+    "https://cisoonline.com.au/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.1.2",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+    "https://cisoonline.com.au/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+    "https://www.google.com/recaptcha/api.js?render=explicit&ver=4.1.2"
+  ],
+  "inlineStyleBytes": 51244,
+  "sectionCount": 30,
+  "headings": [
+    {
+      "tag": "H2",
+      "text": "it’s not IF you face a cyber attack, IT'S WHEN"
+    },
+    {
+      "tag": "H2",
+      "text": "CYBER ATTACKS CAN CAUSE SIGNIFICANT DAMAGES"
+    },
+    {
+      "tag": "H2",
+      "text": "NO MATTER THE SIZE OR INDUSTRY OF YOUR BUSINESS, WE KNOW THAT CYBER SECURITY IS ESSENTIAL FOR EVERYONE!"
+    },
+    {
+      "tag": "H3",
+      "text": "SMALL AND MEDIUM-SIZED BUSINESSES"
+    },
+    {
+      "tag": "H3",
+      "text": "Cyber security Protection, GRC Compliance (ISO 27001, SOC 2, ISO 42001) and Secure AI Adoption Packages"
+    },
+    {
+      "tag": "H3",
+      "text": "cyber basic"
+    },
+    {
+      "tag": "H3",
+      "text": "cyber premium"
+    },
+    {
+      "tag": "H3",
+      "text": "cyber elite"
+    },
+    {
+      "tag": "H3",
+      "text": "SOC 2 PREMIUM"
+    },
+    {
+      "tag": "H3",
+      "text": "ISO 27001 Premium"
+    },
+    {
+      "tag": "H3",
+      "text": "ISO 42001 PREMIUM"
+    },
+    {
+      "tag": "H3",
+      "text": "copilot basic"
+    },
+    {
+      "tag": "H3",
+      "text": "copilot premium"
+    },
+    {
+      "tag": "H3",
+      "text": "copilot elite"
+    },
+    {
+      "tag": "H3",
+      "text": "GOVERNMENT AND LARGE ENTERPRISES"
+    },
+    {
+      "tag": "H3",
+      "text": "ADVANCED CUSTOMISABLE PROFESSIONAL SERVICES"
+    },
+    {
+      "tag": "H3",
+      "text": "Secure Laptop with Surface"
+    },
+    {
+      "tag": "H3",
+      "text": "GLOBAL CYBER SECURITY STATISTICS"
+    },
+    {
+      "tag": "H3",
+      "text": "AUSTRALIAN CYBER SECURITY STATISTICS"
+    },
+    {
+      "tag": "H2",
+      "text": "RESULTS SPEAK LOUDER"
+    },
+    {
+      "tag": "H3",
+      "text": "Government and Large Enterprises"
+    },
+    {
+      "tag": "H2",
+      "text": "SMALL and MEDIUM-sized BUSINESSES"
+    },
+    {
+      "tag": "H2",
+      "text": "Featured IN"
+    },
+    {
+      "tag": "H2",
+      "text": "STAY AHEAD OF CYBER THREATS WITH OUR COMPREHENSIVE CYBER SECURITY SOLUTIONS"
+    },
+    {
+      "tag": "H2",
+      "text": "our trusted partners"
+    },
+    {
+      "tag": "H2",
+      "text": "THE LATEST CYBER SECURITY NEWS AND DATA BREACHES"
+    },
+    {
+      "tag": "H3",
+      "text": "Cyber Attacks & Data Breaches"
+    },
+    {
+      "tag": "H3",
+      "text": "Educational & Awareness"
+    },
+    {
+      "tag": "H2",
+      "text": "OUR REACH IS GLOBAL"
+    },
+    {
+      "tag": "H3",
+      "text": "download datasheet"
+    },
+    {
+      "tag": "H3",
+      "text": "download datasheet"
+    },
+    {
+      "tag": "H3",
+      "text": "download datasheet"
+    }
+  ],
+  "paragraphs": [
+    "Insights and awareness on cyber security incidents",
+    "Cyber security tips and knowledge",
+    "CISO Online™ empowers organisations to strengthen their cyber security posture, achieve compliance, and securely adopt AI through a comprehensive suite of services, including Advanced Professional Services, Cyber Security Protection Packages, GRC Compliance Packages (ISO 27001, SOC 2, ISO 42001), and Secure AI Adoption Packages.",
+    "Whether you’re an SMB or a large enterprise, cyber threats are evolving rapidly. With threat actors increasingly leveraging AI to launch more sophisticated and targeted attacks, protecting your organisation has never been more critical.",
+    "Our Vision is to enable businesses to focus on their core mission, without the distraction of technology and cyber security risks, while enhancing productivity through the secure adoption of AI.",
+    "Our Mission is to build a secure digital working environment, powered by AI and expert guidance, that protects against cyber threats, strengthens cyber security culture, and enables organisations to confidently adopt AI.",
+    "Are you concerned about the security of your digital environment and the protection of your data? How important is your data to you? Cyber attacks threaten businesses with data theft, financial loss, reputational harm, legal issues, and operational disruptions. Safeguarding your business is essential.",
+    "We understand that cyber security is essential for every business, regardless of size. That’s why we offer advanced, customisable services for large enterprises and tailored cyber security protection packages for SMB.",
+    "While technology is essential to nearly every aspect of modern business, it also brings increased risks of cyberattacks. We understand the unique pain points and budget constraints faced by Small and Medium-Sized Businesses (SMB), which is why we offer advanced, cost-effective Cyber security Protection Packages, GRC Compliance Packages (ISO 27001, SOC 2, ISO 42001) and Secure AI adoption Packages to address these challenges effectively.",
+    "Our packages are specifically designed for SMB, leveraging intelligence from the Australian Cyber Security Centre (ACSC), Microsoft’s cutting-edge technology, Vanta’s and Drata’s continuous compliance tools, and security awareness programs. By understanding the specific information security challenges SMBs face and enhancing productivity through the adoption of AI, our tailored solutions provide exceptional value while meeting their unique needs.",
+    "Cyber Security Protection Package for Micro Businesses",
+    "Cyber Security Protection Package for Small Businesses",
+    "Cyber Security Protection Package for Medium-sized Businesses",
+    "Systems Security and Organisation Controls Package for SMB",
+    "Information Security Management System Package for SMB",
+    "Artificial Intelligence Management System for SMB",
+    "Secure AI adoption package for micro businesses",
+    "Advanced AI governance package for small businesses",
+    "Comprehensive AI security and governance for medium-sized businesses",
+    "Our advanced professional services are fully customisable for government agencies and departments, as well as large and high-end enterprises. We are enhancing our capabilities through a partnership with the Australian Cyber Security Centre (ACSC) and adopting a risk-based approach to uplift your cyber security posture, achieve compliance, and roll out AI securely.",
+    "This enables us to deliver comprehensive Cyber Security Uplift Programs, Security Solution Architecture, Penetration Testing, ACSC Essential 8 Consulting, IRAP Assessments, ISO 27001, SOC 2, ISO 42001 Consultancy, CISO as a Service, Incident Response, Digital Forensics, BCDR, and Security Awareness Training.",
+    "Click the link below to find out how we can protect your organisation from cyber threats.",
+    "Our Secure Laptop solutions provide enhanced security for your mobile workforce. We implement advanced protection measures to safeguard sensitive data on laptops. Equip your team with secure devices to work…",
+    "In today’s digital landscape, technology underpins nearly every aspect of business operations, from team collaboration to customer engagement and revenue generation. However, this reliance on technology increases the risk of cyberattacks.",
+    "Australia has seen a big increase in cybercrime, with more cyber attacks than ever before! These attacks cost businesses significant financial and reputational damage while causing disruption to their operations.",
+    "We have supported businesses of all sizes across multiple industries within Australia and globally, from SMB to large enterprises. If you’re seeking a cyber security partner that delivers tailored, trustworthy, and effective results, then it’s time to connect with CISO Online™. As a proud partner of the Australian Cyber security Centre (ACSC), we are trusted and supported by the Australian Government to support and uplift all businesses cyber security posture.",
+    "Our experienced experts will find and fix your vulnerabilities before the hackers do! It’s not a matter of you face a cyber attack, it’s when. Our team has the best industry experts who are certified and dedicated to support you on your cyber security journey.",
+    "Click the link below to find out how we can protect your organisation with our comprehensive cyber security services.",
+    "We are backed by leading security vendors and reputable associations to strengthen your cyber security. Our team of experts shares their knowledge and experience to provide you with the best solutions.",
+    "Explore insights, stay informed! Dive into our cyber security blogs for expert analysis, practical tips, and the latest trends, empowering you with the knowledge to strengthen your digital defences.",
+    "Global Reach, local and Global Expertise. Serving clients worldwide, our cyber security solutions break down borders, providing resilient protection for organisations across various countries against evolving digital threats.",
+    "Our vision is to create a working environment safe from cyber attacks.",
+    "Our mission is to protect businesses and uplift their cyber security posture and behaviour."
+  ],
+  "links": [
+    {
+      "text": "Home",
+      "href": "https://cisoonline.com.au"
+    },
+    {
+      "text": "Blogs",
+      "href": "https://cisoonline.com.au/blogs/"
+    },
+    {
+      "text": "Cyber Attacks Data Breaches",
+      "href": "https://cisoonline.com.au/category/cyber-attacks-and-data-breaches/"
+    },
+    {
+      "text": "Educational & Awareness",
+      "href": "https://cisoonline.com.au/category/educational-and-awareness/"
+    },
+    {
+      "text": "About us",
+      "href": "https://cisoonline.com.au/about-ciso-online/"
+    },
+    {
+      "text": "Contact us",
+      "href": "https://cisoonline.com.au/contact-ciso-online/"
+    },
+    {
+      "text": "Cybersecurity Protection Packages",
+      "href": "https://cisoonline.com.au/services/cybersecurity-smb-packages/"
+    },
+    {
+      "text": "Cyber Basic Cyber Security package for micro businesses",
+      "href": "https://cisoonline.com.au/services/cyber-essentials-for-micro-businesses/"
+    },
+    {
+      "text": "Cyber Premium Cyber Security package for small businesses",
+      "href": "https://cisoonline.com.au/services/cyber-premium-for-small-businesses/"
+    },
+    {
+      "text": "Cyber Elite Cyber Security package for medium-sized businesses",
+      "href": "https://cisoonline.com.au/services/cyber-elite-for-medium-businesses/"
+    },
+    {
+      "text": "GRC Compliance Packages",
+      "href": "https://cisoonline.com.au/smb-grc-packages/"
+    },
+    {
+      "text": "ISO 27001 Premium ISO 27001 premium for SMB",
+      "href": "https://cisoonline.com.au/services/iso-27001-premium/"
+    },
+    {
+      "text": "SOC 2 PREMIUM Systems Security and Organisation Controls for SMB",
+      "href": "https://cisoonline.com.au/services/soc-2-premium/"
+    },
+    {
+      "text": "ISO 42001 Premium Artificial Intelligence Management System for SMB",
+      "href": "https://cisoonline.com.au/services/iso-42001-premium/"
+    },
+    {
+      "text": "Secure AI Adoption Packages",
+      "href": "https://cisoonline.com.au/security-ai-adoption-packages/"
+    },
+    {
+      "text": "Copilot Basic Secure AI adoption package for micro businesses",
+      "href": "https://cisoonline.com.au/services/copilot-basic/"
+    },
+    {
+      "text": "Copilot Premium Secure AI adoption package for small businesses",
+      "href": "https://cisoonline.com.au/services/copilot-premium/"
+    },
+    {
+      "text": "Copilot Elite Secure AI adoption package for medium-sized businesses",
+      "href": "https://cisoonline.com.au/services/copilot-elite/"
+    },
+    {
+      "text": "Advanced Professional Services",
+      "href": "https://cisoonline.com.au/services"
+    },
+    {
+      "text": "Cyber Security Uplift Enhance your cyber security posture",
+      "href": "https://cisoonline.com.au/services/cyber-security-uplift/"
+    },
+    {
+      "text": "Small and Medium-Sized Businesses (SMB) Tailored packages for SMB’s to uplift cy",
+      "href": "https://cisoonline.com.au/services/cybersecurity-smb-packages/"
+    },
+    {
+      "text": "Cyber Basic Cyber Security package for micro businesses",
+      "href": "https://cisoonline.com.au/services/cyber-essentials-for-micro-businesses/"
+    },
+    {
+      "text": "Cyber Premium Cyber Security package for small businesses",
+      "href": "https://cisoonline.com.au/services/cyber-premium-for-small-businesses/"
+    },
+    {
+      "text": "Cyber Elite Cyber Security package for medium-sized businesses",
+      "href": "https://cisoonline.com.au/services/cyber-elite-for-medium-businesses/"
+    },
+    {
+      "text": "ISO 27001 Premium ISO 27001 premium for SMBs",
+      "href": "https://cisoonline.com.au/services/iso-27001-premium/"
+    },
+    {
+      "text": "SOC 2 PREMIUM Systems Security and Organization Controls for SMB",
+      "href": "https://cisoonline.com.au/services/soc-2-premium/"
+    },
+    {
+      "text": "ISO 42001 Premium Artificial Intelligence Management System for SMB",
+      "href": "https://cisoonline.com.au/services/iso-42001-premium/"
+    },
+    {
+      "text": "Large and High-End Enterprises Risk-based approach for large enterprises to upli",
+      "href": "https://cisoonline.com.au/services/cybersecurity-for-large-and-high-end-enterprises/"
+    },
+    {
+      "text": "Cyber Security Solution Architecture Tailored comprehensive cyber security desig",
+      "href": "https://cisoonline.com.au/services/cybersecurity-solution-architecture/"
+    },
+    {
+      "text": "Penetration Testing Security testing and ethical hacking to find vulnerabilities",
+      "href": "https://cisoonline.com.au/services/penetration-testing-australia/"
+    },
+    {
+      "text": "ACSC Essential 8 Consultancy Eight cyber security strategies for mitigating risk",
+      "href": "https://cisoonline.com.au/services/essential-eight-acsc/"
+    },
+    {
+      "text": "ASD IRAP Assessments Australian government information security assessment",
+      "href": "https://cisoonline.com.au/services/irap-infosec-registered-assessors-assessment/"
+    },
+    {
+      "text": "ISO 27001 Consultancy ISO 27001/ ISMS CONSULTANCY",
+      "href": "https://cisoonline.com.au/services/iso-iec-27001-isms-information-security-management-system/"
+    },
+    {
+      "text": "SOC 2 Consultancy Comprehensive ISMS package for Large Enterprises",
+      "href": "https://cisoonline.com.au/services/soc-2-consultancy/"
+    },
+    {
+      "text": "ISO 42001 Consultancy ISO 42001 Consultancy",
+      "href": "https://cisoonline.com.au/services/iso-42001-consultancy/"
+    },
+    {
+      "text": "Secure AI Rollout Secure AI Rollout",
+      "href": "https://cisoonline.com.au/services/secure-ai-rollout/"
+    },
+    {
+      "text": "GRC Cyber security governance, risk and compliance",
+      "href": "https://cisoonline.com.au/services/cybersecurity-governance-risk-and-compliance-grc/"
+    },
+    {
+      "text": "CISO as a Service On demand, experienced, Chief Information Security Officer",
+      "href": "https://cisoonline.com.au/services/chief-information-security-officer-ciso-on-demand-cisoaas/"
+    },
+    {
+      "text": "Incident Response Security testing and ethical hacking to find vulnerabilities",
+      "href": "https://cisoonline.com.au/services/cyber-incident-response-services/"
+    },
+    {
+      "text": "Digital Forensics Investigate cyber security incidents and the root cause",
+      "href": "https://cisoonline.com.au/services/digital-forensics/"
+    },
+    {
+      "text": "Cyber Security Implementation Configure and deploy cyber security controls",
+      "href": "https://cisoonline.com.au/services/cyber-security-implementation/"
+    },
+    {
+      "text": "Managed Security Services Operation and management of your cyber security contro",
+      "href": "https://cisoonline.com.au/services/managed-cyber-security-services/"
+    },
+    {
+      "text": "Cyber Security Health Check Assessment A tailored assessment of your cyber secur",
+      "href": "https://cisoonline.com.au/services/cybersecurity-health-check-assessment/"
+    },
+    {
+      "text": "Risk Assessment Ranking identified cyber risk based on impact and likelihood",
+      "href": "https://cisoonline.com.au/services/cybersecurity-risk-assessment/"
+    },
+    {
+      "text": "Business Continuity and Disaster Recovery (BCDR) Australian business continuity ",
+      "href": "https://cisoonline.com.au/services/business-continuity-disaster-recovery-bcdr/"
+    },
+    {
+      "text": "Secure Laptop with Surface Safety at your fingertips, Secure laptops with Micros",
+      "href": "https://cisoonline.com.au/services/secure-laptop/"
+    },
+    {
+      "text": "Security Awareness Training Educating your team on the latest cyber risks and at",
+      "href": "https://cisoonline.com.au/services/cybersecurity-awareness-training/"
+    },
+    {
+      "text": "NINJIO Hollywood animated cyber awareness computer based training videos",
+      "href": "https://cisoonline.com.au/services/ninjio-security-awareness-training/"
+    },
+    {
+      "text": "Simulated Phishing Simulated phishing attack",
+      "href": "https://cisoonline.com.au/services/simulated-phishing-training/"
+    },
+    {
+      "text": "Solutions",
+      "href": "https://cisoonline.com.au/solutions"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/ciso-online-cybersecurity-white-writing-logo-scaled.webp",
+      "alt": "",
+      "cls": "attachment-full size-full wp-image-2583"
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/07/cyber-attacks-and-data-breaches-cybersecurity-white-icon-ciso-online.webp",
+      "alt": "cyber attacks and data breaches",
+      "cls": "attachment-full size-full wp-image-6570"
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/07/cybersecurity-educationa-and-awarness-white-icon-ciso-online.webp",
+      "alt": "educational and awarness",
+      "cls": "attachment-full size-full wp-image-6571"
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/themes/ciso/assets/img/logo-small-menu.png",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-cyber-basic.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-cyber-premium.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-cyber-elite.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-ISO-27001-Premium.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-SOC-2-PREMIUM.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-ISO-42001-PREMIUM.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-copilot-basic.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-copilot-premium.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-copilot-elite.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/05/cyber-security-uplift-white-icon-tahami-online.webp",
+      "alt": "cyber security uplift white icon",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/07/small-medium-businesses-smb-cybersecurity-white-icon-ciso-online.webp",
+      "alt": "small medium businesses smb cybersecurity white icon",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-cyber-basic.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-cyber-premium.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-cyber-elite.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-ISO-27001-Premium.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-SOC-2-PREMIUM.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-ISO-42001-PREMIUM.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/07/large-and-high-enterprise-cybersecurity-white-icon-ciso-online.png",
+      "alt": "large and high enterprise cybersecurity",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/solution-architecture-white-icon-ciso-online.webp",
+      "alt": "solution architecture white icon",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/05/penetration-testing-white-icon-tahami-online-1.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/essential-8-white-icon-ciso-online.webp",
+      "alt": "essential 8 white icon",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/infosec-registered-assessors-program-irap-white-icon-ciso-online.webp",
+      "alt": "infosec registered assessors program irap white icon",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-ISO-27001-Premium.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-SOC-2-PREMIUM.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2026/06/ciso-online-ISO-42001-PREMIUM.svg",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2025/08/secure-ai-agents-white-icon-ciso-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/cyber-security-governance-risk-and-compliance-grc-white-icon-ciso-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/cisoaas-ciso-on-demand-white-icon-ciso-online.webp",
+      "alt": "ciso on demand",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/09/incident-response-white-icon-ciso-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/05/digital-forensics-white-icon-tahami-online-1.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/security-implementation-white-icon-ciso-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/managed-security-service-provider-mssp-white-icon-ciso-online.webp",
+      "alt": "managed security service provider mssp white icon",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/security-health-assessment-white-icon-ciso-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/security-risk-assessment-white-icon-ciso-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/07/business-continuity-disaster-recovery-cybersecurity-white-icon-ciso-online.webp",
+      "alt": "business continuity disaster",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/07/secure-laptop-cybersecurity-white-icon-ciso-online.webp",
+      "alt": "secure laptop",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/05/security-awareness-training-white-icon-tahami-online-1.webp",
+      "alt": "security awarness",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/07/ninjio-cybersecurity-awareness-training-white-icon-ciso-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/06/simulated-phishing-attack-white-icon-ciso-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/05/zero-trust-architecture-white-icon-tahami-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2024/05/secure-access-service-edge-sase-sse-architecture-white-icon-tahami-online.webp",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2025/01/microsoft-defender-for-identity-protection-icon-sulotions.webp",
+      "alt": "identity protection",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2025/01/data-protection-white-icon-ciso-online.webp",
+      "alt": "data protection",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2025/01/microsoft-defender-for-endpoint-protection-icon-sulotions.webp",
+      "alt": "endpoint protection",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2025/01/mobile-device-protection-white-icon-ciso-online.webp",
+      "alt": "mobile device protection",
+      "cls": ""
+    },
+    {
+      "src": "https://cisoonline.com.au/wp-content/uploads/2025/01/cloud-security-white-icon-ciso-online.webp",
+      "alt": "cloud security",
+      "cls": ""
+    }
+  ]
+}
